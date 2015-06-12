@@ -1,2 +1,7 @@
 # Talk-to-the-Hand
-Sign Language 
+is a student work app for sign language 
+
+
+
+
+
